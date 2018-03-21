@@ -9,6 +9,6 @@ VerticalHistCaller(data)
 ```
 
 
-_ Based on [this](stackoverflow.com/a/13334294/903061) Stack Overflow answer created by Gregor Thomas_
+_Based on [this](stackoverflow.com/a/13334294/903061) Stack Overflow answer created by Gregor Thomas_
 
 
