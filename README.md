@@ -9,6 +9,6 @@ VerticalHistCaller(data)
 ```
 
 
-* "Based on this Stack Overflow answer created by Gregor Thomas: stackoverflow.com/a/13334294/903061" *
+_"Based on this Stack Overflow answer created by Gregor Thomas: stackoverflow.com/a/13334294/903061"_
 
 
